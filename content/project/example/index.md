@@ -1,7 +1,7 @@
 ---
 title: PhD Project
-summary: An example of using the in-built project page.
-tags:
+summary: SICB 2020 Talk.
+tags: Acheta Domesticus
 - Acheta Domestucus
 date: "2016-04-27T00:00:00Z"
 
