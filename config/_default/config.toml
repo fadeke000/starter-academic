@@ -5,7 +5,7 @@
 
 title: Fadeke Adeola # Website name
 baseurl: 'https://fadeke-adeola.netlify.app/' # Website URL
-copyright: '© 2021 Fadeke Adeola' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Fadeke Adeola' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
