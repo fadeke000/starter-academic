@@ -43,9 +43,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/fa.jpeg/
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
   link:https://github.com/fadeke000/ 
