@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Cricket Husbandry
+        * Data Collection 
+        * Flexiforce Bite Measurement Collection
         
   - title: Graduate Assistant of Biology 1 Laboratory 
     company: University of New Orleans
