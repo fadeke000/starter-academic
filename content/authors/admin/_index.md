@@ -6,7 +6,7 @@ title: Fadeke Adeola
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of INtegrative Biology 
+role: PhD Candidate of Integrative Biology 
 
 # Organizations/Affiliations to show in About widget
 organizations:
