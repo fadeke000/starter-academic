@@ -48,10 +48,10 @@ social:
   link: https://scholar.google.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/fadeke000
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com
+  link: 
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
