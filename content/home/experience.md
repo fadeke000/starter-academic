@@ -25,7 +25,7 @@ experience:
   - title: Graduate Student
     company: University of New Orleans
     company_url: 'https://www.uno.edu/academics/cos/biology'
-    company_logo: org-uno
+    company_logo: org_crk
     location: Louisiana
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Graduate Assistant of Biology 1 Laboratory 
     company: University of New Orleans
     company_url: 'https://www.uno.edu/academics/cos/biology'
-    company_logo: org-uno
+    company_logo: org_crk
     location: Louisiana
     date_start: '2017-01-08'
     date_end: '2021-12-31'
