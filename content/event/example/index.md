@@ -2,7 +2,7 @@
 title: The Influence of Dampened Locomotor Function on Calling Structure in the house cricket Acheta domesticus
 
 event: Society of Integrative Biology Conference
-event_url: https://burkclients.com/sicb/meetings/2020/site/hotel.html
+event_url: https://burkclients.com/sicb/meetings/2020/site/index.html
 
 location: JW MARRIOTT AUSTIN
 address:
