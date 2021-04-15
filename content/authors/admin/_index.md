@@ -42,16 +42,16 @@ social:
   link: '/#contact'
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/fa.jpeg/
+  link: 'https://www.instagram.com/fa.jpeg/'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://www.scholar.google.com/
+  link: 'https://www.scholar.google.com/'
 - icon: github
   icon_pack: fab
-  link: https://www.github.com/fadeke000/
+  link: 'https://www.github.com/fadeke000/'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/fadeke-adeola-342b5398/
+  link: 'https://www.linkedin.com/in/fadeke-adeola-342b5398/'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
