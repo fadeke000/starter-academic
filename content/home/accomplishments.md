@@ -23,30 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/bc8d92775a5da2a9882ebc3a1500b6c9e1a647da?raw=1
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2021-01-21"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
+  organization: Datacamp
+  organization_url: https://www.datacamp.com
+  title: 'Spreadsheet Fundamentals'
+  url: https://www.datacamp.com/statement-of-accomplishment/track/bc8d92775a5da2a9882ebc3a1500b6c9e1a647da?raw=1
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/0d42d381b9eb3b35bcd15e0836e7b561e2e64028
+  date_end: ""
+  date_start: "2021-01-30"
+  description: Multiple and logistic regression analysis using R software
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: 'Multiple and Logistic Regression in R'
+  url: "https://www.datacamp.com/statement-of-accomplishment/course/0d42d381b9eb3b35bcd15e0836e7b561e2e64028"
 
 design:
   columns: '2' 
