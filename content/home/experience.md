@@ -43,7 +43,7 @@ experience:
     location: California
     date_start: '2017-01-08'
     date_end: '2021-12-31'
-    description: Taught Biology 1 lab and introduced various laboratory techniques to freshmen.
+    description: Taught 30 student sections of Biology 1 lab and introduced various laboratory techniques to freshmen.
 
 design:
   columns: '2'
