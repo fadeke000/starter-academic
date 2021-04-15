@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Graduate Assistant of Biology 1 Laboratory 
+    company: University of New Orleans
+    company_url: 'https://www.uno.edu/academics/cos/biology'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2017-01-08'
+    date_end: '2021-12-31'
+    description: Taught Biology 1 lab and introduced various laboratory techniques to freshmen.
 
 design:
   columns: '2'
