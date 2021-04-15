@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: The Influence of Dampened Locomotor Function on Calling Structure in the house cricket Acheta domesticus
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Society of Integrative Biology Conference
+event_url: https://burkclients.com/sicb/meetings/2020/site/hotel.html
 
-location: Wowchemy HQ
+location: JW MARRIOTT AUSTIN
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 110 East 2nd Street
+  city: Austin
+  region: TX
+  postcode: '78701'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Secondary sexual displays are important determinants of fitness in animals. Although variation in such displays are of keen interest to evolutionary biologists, the factors driving such variation are often poorly understood. Intrinsic factors such as individual condition, motivational state, or locomotor capacities in the case of dynamic displays could potentially affect aspects of male displays, which in turn can affect the probability of obtaining successful mating outcomes. We manipulated aggression and locomotor capacities in male house crickets, A. domesticus by synthetically blocking the octopamine receptors that influence aggression and skeletal muscle function. We then measured male courtship calls and analyzed the call structure to quantify the differences in the opportunity in selection based on the changes in dominant frequency, pulse duration intervals between chirp and trill in treated vs untreated males. By manipulating the ability of males to produce calls, which are driven by muscular contractions, we were able to reveal the influence of dampened locomotor function on male auditory displays."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: [ADEOLA, FI*; LAILVAUX, SP]
 tags: []
 
 # Is this a featured talk? (true/false)
