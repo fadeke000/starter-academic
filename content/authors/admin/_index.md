@@ -51,8 +51,8 @@ social:
   link: https://github.com/fadeke000/
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/fadeke-adeola-342b5398/
-
+  link: https://linkedin.com/
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
