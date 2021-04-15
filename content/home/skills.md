@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 70%
-  icon: fa-retro
+  icon: fa-apple
   icon_pack: fab
   name: UNIX/Windows kernal
 
