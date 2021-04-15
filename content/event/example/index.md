@@ -17,8 +17,8 @@ abstract: "Secondary sexual displays are important determinants of fitness in an
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-03-01T13:00:00Z"
+date_end: "2020-07-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
