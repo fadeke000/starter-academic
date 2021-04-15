@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fadeke Adeola
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate of INtegrative Biology 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of New Orleans 
+  url: http://www.fs.uno.edu/slailvau/research.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistics, evolutionary mechanisms, mating strategies, invertebrate neurotransmitter research, sound production and programing.
 
 # Interests to show in About widget
 interests:
@@ -38,14 +38,14 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "fadeke95@outlook.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://instagram.com/fa.jpeg
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,8 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fadeke Adeola is a Ph.D candidate of Integrative Bilolgy at the University of New Orleana. Her research interests include biostatistics, and evolutionary mechanisms and. She is a part of the Lailvaux Lab Group, which currently works with Acheta domesticus (the european hoiuse cricket) and Anolis carolinensis (the green Anole). She uses various methods of instrumentation to test muscular contractions and the octopamine neurotransmitter pathway within Acheta domesticus crickets. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
