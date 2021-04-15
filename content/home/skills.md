@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 70%
   icon: fa-apple
-  icon_pack: fas
+  icon_pack: fab
   name: UNIX/Windows kernal
 
 # Uncomment to use emoji icons.
