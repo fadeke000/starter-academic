@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Student
-    company: Unoversity of New Orleans
+    company: University of New Orleans
     company_url: 'https://www.uno.edu/academics/cos/biology'
     company_logo: org-uno
     location: Louisiana
