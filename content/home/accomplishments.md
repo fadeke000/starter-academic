@@ -27,7 +27,7 @@ item:
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/bc8d92775a5da2a9882ebc3a1500b6c9e1a647da?raw=1
   date_end: ""
   date_start: "2021-01-21"
-  description: Spreadsheet fundamentals in google sheets and Microsoft Excel.
+  description: Spreadsheet fundamentals in google sheets and Microsoft Excel. Skills included Data analysis using formulas and Pivot Tables.
   organization: Datacamp
   organization_url: https://www.datacamp.com
   title: 'Spreadsheet Fundamentals'
