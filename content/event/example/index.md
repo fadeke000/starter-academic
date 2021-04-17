@@ -1,5 +1,5 @@
 ---
-title: The Influence of Dampened Locomotor Function on Calling Structure in the house cricket Acheta domesticus
+title: The Influence of Dampened Locomotor Function on Calling Structure in the House Cricket Acheta domesticus
 
 event: Society of Integrative Biology Conference
 event_url: https://burkclients.com/sicb/meetings/2020/site/index.html
@@ -19,7 +19,7 @@ abstract: "Secondary sexual displays are important determinants of fitness in an
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-03-01T13:00:00Z"
 date_end: "2020-07-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -38,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/
 url_code: ""
 url_pdf: ""
 url_slides: ""
