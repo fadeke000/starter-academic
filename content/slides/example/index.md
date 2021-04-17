@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Slides using WOWCHEMY coming soon!!.
 authors: []
 tags: []
 categories: []
