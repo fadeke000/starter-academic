@@ -43,6 +43,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/fa.jpeg
+- icon: github
+  icon_pack: fab
+  link: https://github.com/fadeke000
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
