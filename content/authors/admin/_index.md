@@ -46,7 +46,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/fadeke000
-  - icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/fadeke-adeola-342b5398/
   
