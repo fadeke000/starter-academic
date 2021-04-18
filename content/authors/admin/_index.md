@@ -67,4 +67,4 @@ highlight_name: false
 Fadeke Adeola is a Ph.D candidate of Integrative Biology at the University of New Orleans. Her research interests include biostatistics, and evolutionary mechanisms and. She is a part of the Lailvaux Lab Group, which currently works with Acheta domesticus (the european house cricket) and Anolis carolinensis (the green Anole). She uses various methods of instrumentation to test muscular contractions and the effects of the octopamine neurotransmitter pathway on sexual conflict within Acheta domesticus crickets. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
