@@ -26,7 +26,7 @@ item:
 
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/bc8d92775a5da2a9882ebc3a1500b6c9e1a647da?raw=1
   date_end: ""
-  date_start: "2021-01-21"
+  date_start: "2021-21-01"
   description: Spreadsheet fundamentals in google sheets and Microsoft Excel. Skills included Data analysis using formulas and Pivot Tables.
   organization: Datacamp
   organization_url: https://www.datacamp.com
@@ -34,7 +34,7 @@ item:
   url: https://www.datacamp.com/statement-of-accomplishment/track/bc8d92775a5da2a9882ebc3a1500b6c9e1a647da?raw=1
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/0d42d381b9eb3b35bcd15e0836e7b561e2e64028
   date_end: ""
-  date_start: "2021-01-30"
+  date_start: "2021-30-01"
   description: Multiple and logistic regression analysis using R software
   organization: DataCamp
   organization_url: https://www.datacamp.com
