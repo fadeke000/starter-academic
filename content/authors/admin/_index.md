@@ -14,7 +14,7 @@ organizations:
   url: http://www.fs.uno.edu/slailvau/research.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistics, evolutionary mechanisms, mating strategies, invertebrate neurotransmitter research, sound production and programing.
+bio: My research interests include statistics, evolutionary mechanisms, mating strategies, invertebrate neurotransmitter research, sound production, signal processing and programing.
 
 # Interests to show in About widget
 interests:
