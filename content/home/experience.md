@@ -35,7 +35,7 @@ experience:
         * Cricket Husbandry
         * Data Collection 
         * Flexiforce Bite Measurement Collection
-        
+        * Audio Signal Processing 
   - title: Graduate Assistant of Biology 1 Laboratory 
     company: University of New Orleans
     company_url: 'https://www.uno.edu/academics/cos/biology'
@@ -43,7 +43,7 @@ experience:
     location: Louisiana
     date_start: '2017-01-08'
     date_end: '2021-12-31'
-    description: Taught 30 student sections of Biology 1 lab and introduced various laboratory techniques to freshmen.
+    description: Taught sections of 30 suudents Biology 1 lab and introduced various laboratory techniques to freshmen.
 
 design:
   columns: '2'
