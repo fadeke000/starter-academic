@@ -42,7 +42,7 @@ item:
   url: "https://www.datacamp.com/statement-of-accomplishment/course/0d42d381b9eb3b35bcd15e0836e7b561e2e64028"
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/a0499b3672e70fc171cd1a27dfca6058dbbb6bea
   date_end: ""
-  date_start: "2021-06-01"
+  date_start: "2021-06-11"
   description: Completion of Image Processing, Biomedical Image Processing and Image Processing with Keras on DataCamp
   organization: DataCamp
   organization_url: https://www.datacamp.com
