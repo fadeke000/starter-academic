@@ -40,7 +40,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Multiple and Logistic Regression in R'
   url: "https://www.datacamp.com/statement-of-accomplishment/course/0d42d381b9eb3b35bcd15e0836e7b561e2e64028"
-  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/a0499b3672e70fc171cd1a27dfca6058dbbb6bea
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/a0499b3672e70fc171cd1a27dfca6058dbbb6bea
   date_end: ""
   date_start: "2021-06-01"
   description: Completion of Image Processing, Biomedical Image Processing and Image Processing with Keras on DataCamp
