@@ -20,6 +20,7 @@ bio: My research interests include statistics, evolutionary mechanisms, mating s
 interests:
 - Biostatistics
 - Invertebrate Neurotransmitter Research
+- Audio Processing
 - Evolutionary Mechanisms
 
 # Education to show in About widget
