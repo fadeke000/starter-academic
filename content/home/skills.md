@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 85%
-  icon: fa-file-audio
+  icon: file-audio
   icon_pack: fas
   name: Audacity 
 
