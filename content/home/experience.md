@@ -54,6 +54,7 @@ experience:
     description: |2-
         Tasks include:
         
+        * Creating audio podcast for STEM careers 
         * Recording, editing and filtering audio for podcasts 
         * Creating in person event to forster a strong STEM community for undergraduate students 
         * Marketing through social media posts about events
