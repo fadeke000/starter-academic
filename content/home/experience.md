@@ -44,7 +44,19 @@ experience:
     date_start: '2017-01-08'
     date_end: '2021-12-31'
     description: Taught sections of 30 suudents Biology 1 lab and introduced various laboratory techniques to freshmen.
-
+  - title: STEM Learning Community Resident Assistant 
+    company: University of New Orleans
+    company_url: 'https://www.uno.edu/academics/cos/biology'
+    company_logo: 
+    location: Louisiana
+    date_start: '2017-01-08'
+    date_end: '2021-12-31'
+    description: |2-
+        Tasks include:
+        
+        * Recording, editing and filtering audio for podcasts 
+        * Creating in person event to forster a strong STEM community for undergraduate students 
+        * Marketing through social media posts about events
 design:
   columns: '2'
 ---
