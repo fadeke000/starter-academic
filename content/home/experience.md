@@ -46,10 +46,10 @@ experience:
     description: Taught sections of 30 suudents Biology 1 lab and introduced various laboratory techniques to freshmen.
   - title: STEM Learning Community Resident Assistant 
     company: University of New Orleans
-    company_url: 'https://www.uno.edu/academics/cos/biology'
+    company_url: 'https://adeolaf.podbean.com/e/scichat-episode-3/'
     company_logo: 
     location: Louisiana
-    date_start: '2017-01-08'
+    date_start: '2019-01-08'
     date_end: '2021-12-31'
     description: |2-
         Tasks include:
