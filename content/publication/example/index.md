@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'https://fadeke-adeola.netlify.app/publication/example/Adeola2022.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
