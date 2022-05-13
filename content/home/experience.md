@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Louisiana
     date_start: '2017-01-01'
-    date_end: '2021-12-31'
+    date_end: '2022-12-31'
     description: |2-
         Responsibilities include:
         
@@ -50,7 +50,7 @@ experience:
     company_logo: 
     location: Louisiana
     date_start: '2019-01-08'
-    date_end: '2021-12-31'
+    date_end: '2021-08-31'
     description: |2-
         Tasks include:
         
