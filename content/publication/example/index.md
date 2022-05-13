@@ -35,7 +35,7 @@ abstract: Secondary sexual displays vary considerably in both type and structure
 # Summary. An optional shortened abstract.
 summary: COMING SOON.
 
-tags: [acheta domesticus],  [sexual selection],  [sexual selection],  [courtship calls] 
+tags: [acheta domesticus]
 
 # Display this page in the Featured widget?
 featured: true
