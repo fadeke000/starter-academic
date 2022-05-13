@@ -29,4 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Fadeke is studying in the factors affecting male coercive ability and female mating resistance. She is manipulating biogenic amines, primarily octopamine, in male and female house crickets (Acheta domesticus) and measuring how the resultant changes in performance and behavior during mating affect the form, intensity, and opportunity of sexual selection through formal selection analysis. 
+Fadeke is studying the factors affecting male coercive ability and female mating resistance. She is manipulating biogenic amines, primarily octopamine, in male and female house crickets (Acheta domesticus) and measuring how the resultant changes in performance and behavior during mating affect the form, intensity, and opportunity of sexual selection through formal selection analysis. 
