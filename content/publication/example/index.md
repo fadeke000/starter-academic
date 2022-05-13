@@ -33,7 +33,7 @@ publication_short: In *Horm Behav*
 abstract: Secondary sexual displays vary considerably in both type and structure both within and across animal species. Although such variation is of keen interest to evolutionary biologists, the functional factors driving variation in male displays are poorly understood. In crickets, acoustic calls are produced by muscular contractions via stridulation of file and scraper wing components. We tested the effect of varying octopamine, an important biogenic amine neurohormone in invertebrates, on call production in male Acheta domesticus house crickets by blocking the octopamine receptors that influence skeletal muscle function with epinastine, a synthetic octopamine antagonist. We then measured male courtship calls and analyzed the call structure to quantify the differences in call structure based on the changes in carrier frequency, and whether chirps or ticks are a more prevalently expressed frequency in treated vs untreated males. Males treated with epinastine exhibited clear differences in call structure compared to untreated controls, such that epinastine-treated males were more likely to produce simpler calls and to exhibit their carrier frequencies as ticks rather than chirps. Thus, we were able to directly modify male courtship calling performance during mating interactions by altering the neuropharmacological milieu, demonstrating the potential role of biogenic amines in contributing to the diversity of call types in nature.
 
 # Summary. An optional shortened abstract.
-summary: COMING SOON.
+summary: Treating crickets with an octopamine antagonist affects whether crickets are able to produce courtship calls during trials.
 
 tags: [acheta domesticus]
 
