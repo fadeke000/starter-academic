@@ -41,9 +41,9 @@ tags: [acheta domesticus]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: 
+ links: https://fadeke-adeola.netlify.app/publication/example/Adeola2022.pdf
+ - name: Publication Download
+   url: https://fadeke-adeola.netlify.app/publication/example/Adeola2022.pdf
 
 url_pdf: ''
 url_code: ''
