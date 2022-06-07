@@ -83,9 +83,9 @@ Epinastine also eliminates male motivation to mate
 - Audio analyses show the effect of altering octopamine on calling structure between treatment groups on pating success
 ---
 ## Call Structure
-<img width="739" alt="image" src="https://user-images.githubusercontent.com/42219937/172280324-53b3f0d5-342c-4bee-a8d9-4556202afb7a.png">
 - More than 7 syllable periods within a chirp period is considered a trill. 
 - However, the crickets did not produce trills within my trials.
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/42219937/172280324-53b3f0d5-342c-4bee-a8d9-4556202afb7a.png">
 
 ---
 
