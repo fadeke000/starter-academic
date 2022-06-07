@@ -63,10 +63,22 @@ Epinastine also eliminates male motivation to mate
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/42219937/172273925-66c3603f-f2ac-4ebb-8f11-2068ba1b1f23.png">
 
 ---
-## Octopamine 
+## Octopamine and Octopamine Antagonist Effects  
 ![image](https://user-images.githubusercontent.com/42219937/172274969-42570b0a-8a52-4ea3-a847-b72aa41ee403.png)
 
 - Figure 1. Results of antennae removal and subsequent treatment with octopamine (OA) and the OA antagonist epinastine (EPI) on realized bite force both pre- and post-treatment in male Acheta domesticus crickets![image](https://user-images.githubusercontent.com/42219937/172274991-408c37c9-420f-4f6a-94f6-6b56bd1e04bd.png)
+
+---
+## Conclusions
+- Males will guard the spermatophore packet which would elongate attachment time 
+- Harassment of males deters the ejection of spermatophore packet 
+- Both sexes may attempt to manipulate spermatophore attachment time to their benefit 
+![image](https://user-images.githubusercontent.com/42219937/172277620-9d7080d5-560c-4c98-9933-82e3c4d2cfa4.png)
+
+---
+## Chapter 2: The Influence of Dampened Locomotor Function on Calling Structure in the house cricket Acheta domesticus 
+![image](https://user-images.githubusercontent.com/42219937/172278191-fc594b40-563d-47a7-ad38-667bc7ceed81.png)
+
 
 ---
 
