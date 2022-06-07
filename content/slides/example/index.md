@@ -13,12 +13,6 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
-
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
-
----
-
 ##  Functional Ecology of Octopamine in the House Cricket (Acheta domesticus)![image](https://user-images.githubusercontent.com/42219937/172272832-516a0e9e-d7c6-47f4-9ee1-c3beaf2123da.png)
 
 ---
