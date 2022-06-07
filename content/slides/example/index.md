@@ -79,6 +79,37 @@ Epinastine also eliminates male motivation to mate
 - We define fitness as an organisms ability to survive and produce offspring.
 - We investigate the role performance has in mating interactions. 
 ---
+## Audio Analysis 
+- Audio analyses show the effect of altering octopamine on calling structure between treatment groups on pating success
+---
+## Call Structure
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/42219937/172280324-53b3f0d5-342c-4bee-a8d9-4556202afb7a.png">
+- More than 7 syllable periods within a chirp period is considered a trill however the crickets did not produce trills within my trials.
+---
+## Chirps
+<img width="906" alt="image" src="https://user-images.githubusercontent.com/42219937/172280851-6140f885-f3d9-4c65-8ab9-4b7b535113c1.png">
+
+---
+## Ticks
+<img width="928" alt="image" src="https://user-images.githubusercontent.com/42219937/172280873-5520107e-2c1f-4009-af13-305774364284.png">
+
+---
+## Auditory Thresholds 
+<img width="833" alt="image" src="https://user-images.githubusercontent.com/42219937/172281063-c25b95d6-8d4a-4533-9611-2fc6ef33bc19.png">
+
+---
+## Dominant Frequencies
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/42219937/172281254-0b941bb1-d070-4f5c-807d-51d14f2e13a8.png">
+
+---
+## Chirp Spectrogram 
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/42219937/172281358-9beda6ee-f7f5-4240-b29a-3f4ed70399d3.png">
+
+---
+## Tick Spectrogram 
+<img width="962" alt="image" src="https://user-images.githubusercontent.com/42219937/172281373-d481a483-5bcf-497c-8bb5-968f501e690a.png">
+
+---
 
 ## Code Highlighting
 
