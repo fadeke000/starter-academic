@@ -110,6 +110,17 @@ Epinastine also eliminates male motivation to mate
 <img width="962" alt="image" src="https://user-images.githubusercontent.com/42219937/172281373-d481a483-5bcf-497c-8bb5-968f501e690a.png">
 
 ---
+## Audio Processing
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/42219937/172283152-faf7614c-910b-442d-ac37-765dfad31da3.png">
+- Frequency Range where crickets dominantly expressed their courtship calls
+- 0 is the grouping of calls in the 4kHz-5kHz range 1 is the grouping of calls in the 10+ kHz range 
+---
+## Audio Processing
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/42219937/172283457-d8aa30ed-0537-4b0a-befe-12f6897ed1b0.png">
+- Instances where crickets produced calls during trials
+- Crickets that did not call align along the bottom of the graph 
+- Crickets that did call align along the top of the graph  
+---
 
 ## Code Highlighting
 
