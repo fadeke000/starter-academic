@@ -79,7 +79,11 @@ Epinastine also eliminates male motivation to mate
 ## Chapter 2: The Influence of Dampened Locomotor Function on Calling Structure in the house cricket Acheta domesticus 
 ![image](https://user-images.githubusercontent.com/42219937/172278191-fc594b40-563d-47a7-ad38-667bc7ceed81.png)
 
-
+---
+## Background 
+- Whole organism performance affects fitness in many different contexts.
+- We define fitness as an organisms ability to survive and produce offspring.
+- We investigate the role performance has in mating interactions. 
 ---
 
 ## Code Highlighting
