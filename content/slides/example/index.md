@@ -48,16 +48,17 @@ Epinastine also eliminates male motivation to mate
 
 ---
 
-## Mating Process
-<img width="688" alt="image" src="https://user-images.githubusercontent.com/42219937/172275352-7413803c-ea4b-44a8-882e-679ede161404.png">
-
----
-
 ## Summary
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/42219937/172273782-5260baad-26d0-41de-9a41-a22d69c83614.png">
 
 ---
+
+## Mating Process
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/42219937/172275352-7413803c-ea4b-44a8-882e-679ede161404.png">
+
+---
+
 ## Summary
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/42219937/172273925-66c3603f-f2ac-4ebb-8f11-2068ba1b1f23.png">
 
