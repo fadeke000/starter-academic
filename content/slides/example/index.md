@@ -47,6 +47,12 @@ Epinastine also eliminates male motivation to mate
 <img width="874" alt="image" src="https://user-images.githubusercontent.com/42219937/172274384-c3003f74-0c9e-45ca-abad-c6634c9ebfcf.png">
 
 ---
+
+## Mating Process
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/42219937/172275352-7413803c-ea4b-44a8-882e-679ede161404.png">
+
+---
+
 ## Summary
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/42219937/172273782-5260baad-26d0-41de-9a41-a22d69c83614.png">
@@ -60,10 +66,6 @@ Epinastine also eliminates male motivation to mate
 ![image](https://user-images.githubusercontent.com/42219937/172274969-42570b0a-8a52-4ea3-a847-b72aa41ee403.png)
 
 - Figure 1. Results of antennae removal and subsequent treatment with octopamine (OA) and the OA antagonist epinastine (EPI) on realized bite force both pre- and post-treatment in male Acheta domesticus crickets![image](https://user-images.githubusercontent.com/42219937/172274991-408c37c9-420f-4f6a-94f6-6b56bd1e04bd.png)
-
----
-## Mating Process
-<img width="688" alt="image" src="https://user-images.githubusercontent.com/42219937/172275352-7413803c-ea4b-44a8-882e-679ede161404.png">
 
 ---
 
