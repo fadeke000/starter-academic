@@ -86,6 +86,7 @@ Epinastine also eliminates male motivation to mate
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/42219937/172280324-53b3f0d5-342c-4bee-a8d9-4556202afb7a.png">
 - More than 7 syllable periods within a chirp period is considered a trill however the crickets did not produce trills within my trials.
 ---
+
 ## Chirps
 <img width="906" alt="image" src="https://user-images.githubusercontent.com/42219937/172280851-6140f885-f3d9-4c65-8ab9-4b7b535113c1.png">
 
