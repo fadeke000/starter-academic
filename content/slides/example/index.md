@@ -19,11 +19,6 @@ slides:
 
 ## Chapter 1: Octopamine mediates mating interactions in the house cricket (Acheta domesticus) ![image](https://user-images.githubusercontent.com/42219937/172272988-a228482e-c95d-4252-921e-f8c2f0860b49.png)
 
-
-- Male motivation to bite is decreased by administration of an octopamine antagonist
-Epinastine also eliminates male motivation to mate
-![image](https://user-images.githubusercontent.com/42219937/172273070-63b94012-46b1-49e5-98a9-57be8a81503d.png)
-
 ---
 ## Neurotransmitter Effects 
 
@@ -63,12 +58,16 @@ Epinastine also eliminates male motivation to mate
 - Figure 1. Results of antennae removal and subsequent treatment with octopamine (OA) and the OA antagonist epinastine (EPI) on realized bite force both pre- and post-treatment in male Acheta domesticus crickets![image](https://user-images.githubusercontent.com/42219937/172274991-408c37c9-420f-4f6a-94f6-6b56bd1e04bd.png)
 
 ---
-## Conclusions
+## Observations 
 - Males will guard the spermatophore packet which would elongate attachment time 
 - Harassment of males deters the ejection of spermatophore packet 
 - Both sexes may attempt to manipulate spermatophore attachment time to their benefit 
 ![image](https://user-images.githubusercontent.com/42219937/172277620-9d7080d5-560c-4c98-9933-82e3c4d2cfa4.png)
-
+---
+## Conclusions
+- Male motivation to bite is decreased by administration of an octopamine antagonist
+Epinastine also eliminates male motivation to mate
+![image](https://user-images.githubusercontent.com/42219937/172273070-63b94012-46b1-49e5-98a9-57be8a81503d.png)
 ---
 ## Chapter 2: The Influence of Dampened Locomotor Function on Calling Structure in the house cricket Acheta domesticus 
 ![image](https://user-images.githubusercontent.com/42219937/172278191-fc594b40-563d-47a7-ad38-667bc7ceed81.png)
