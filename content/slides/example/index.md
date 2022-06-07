@@ -32,7 +32,7 @@ Epinastine also eliminates male motivation to mate
 ![image](https://user-images.githubusercontent.com/42219937/172274187-0c75f2ed-2f06-40b8-87eb-f3ffe4d7df4f.png)
 
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/42219937/172274219-beb8f523-8383-441b-8ffe-a78d9fe94065.png">
-![image](https://user-images.githubusercontent.com/42219937/172274236-b97ee81d-2466-48aa-a751-12e692a64ba9.png)
+
 
 ---
 ## Neurotransmitter Effects 
