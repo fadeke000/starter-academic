@@ -1,6 +1,6 @@
 ---
-title: Slides
-summary: Slides using WOWCHEMY coming soon!!.
+title: The Influence of Dampened Locomotor Function on Calling Structure in the House Cricket Acheta domesticus
+summary: Altered Calling of Male Crickets Mediated Through Dampened Octopamine Receptors.
 authors: []
 tags: []
 categories: []
@@ -19,26 +19,52 @@ slides:
 
 ---
 
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+##  Functional Ecology of Octopamine in the House Cricket (Acheta domesticus)![image](https://user-images.githubusercontent.com/42219937/172272832-516a0e9e-d7c6-47f4-9ee1-c3beaf2123da.png)
 
 ---
 
-## Controls
+## Chapter 1: Octopamine mediates mating interactions in the house cricket (Acheta domesticus) ![image](https://user-images.githubusercontent.com/42219937/172272988-a228482e-c95d-4252-921e-f8c2f0860b49.png)
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
+
 - [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- Male motivation to bite is decreased by administration of an octopamine antagonist
+Epinastine also eliminates male motivation to mate
+![image](https://user-images.githubusercontent.com/42219937/172273070-63b94012-46b1-49e5-98a9-57be8a81503d.png)
+
+---
+## Neurotransmitter Effects 
+
+- Octopamine – Neurotransmitter closely related to norepinephrine (synthesized by a homologous pathway) –heightens aggression
+- Epinastine – Acts as an octopamine receptor antagonist 
+![image](https://user-images.githubusercontent.com/42219937/172274187-0c75f2ed-2f06-40b8-87eb-f3ffe4d7df4f.png)
+
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/42219937/172274219-beb8f523-8383-441b-8ffe-a78d9fe94065.png">
+![image](https://user-images.githubusercontent.com/42219937/172274236-b97ee81d-2466-48aa-a751-12e692a64ba9.png)
+
+---
+## Neurotransmitter Effects 
+- Tyramine and Octopamine are the only nonpeptide neurotransmitters restricted to invertebrates 
+![image](https://user-images.githubusercontent.com/42219937/172274354-b1097de0-a4f8-4f0e-ab22-39ede20ce94e.png)
+<img width="874" alt="image" src="https://user-images.githubusercontent.com/42219937/172274384-c3003f74-0c9e-45ca-abad-c6634c9ebfcf.png">
+
+---
+## Summary
+
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/42219937/172273782-5260baad-26d0-41de-9a41-a22d69c83614.png">
+
+---
+## Summary
+<img width="471" alt="image" src="https://user-images.githubusercontent.com/42219937/172273925-66c3603f-f2ac-4ebb-8f11-2068ba1b1f23.png">
+
+---
+## Octopamine 
+![image](https://user-images.githubusercontent.com/42219937/172274969-42570b0a-8a52-4ea3-a847-b72aa41ee403.png)
+
+- Figure 1. Results of antennae removal and subsequent treatment with octopamine (OA) and the OA antagonist epinastine (EPI) on realized bite force both pre- and post-treatment in male Acheta domesticus crickets![image](https://user-images.githubusercontent.com/42219937/172274991-408c37c9-420f-4f6a-94f6-6b56bd1e04bd.png)
+
+---
+## Mating Process
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/42219937/172275352-7413803c-ea4b-44a8-882e-679ede161404.png">
 
 ---
 
