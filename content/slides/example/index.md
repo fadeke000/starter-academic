@@ -26,7 +26,6 @@ slides:
 ## Chapter 1: Octopamine mediates mating interactions in the house cricket (Acheta domesticus) ![image](https://user-images.githubusercontent.com/42219937/172272988-a228482e-c95d-4252-921e-f8c2f0860b49.png)
 
 
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 - Male motivation to bite is decreased by administration of an octopamine antagonist
 Epinastine also eliminates male motivation to mate
 ![image](https://user-images.githubusercontent.com/42219937/172273070-63b94012-46b1-49e5-98a9-57be8a81503d.png)
