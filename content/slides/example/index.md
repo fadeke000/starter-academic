@@ -126,6 +126,10 @@ Epinastine also eliminates male motivation to mate
 <img width="556" alt="image" src="https://user-images.githubusercontent.com/42219937/172283457-d8aa30ed-0537-4b0a-befe-12f6897ed1b0.png">
   
 ---
+## Conclusion
+- Courtship call production is altered by epinastine administration
+- Performance and call structure can be manipulated by altering call structure
+---
 
 ## Code Highlighting
 
@@ -137,18 +141,6 @@ porridge = "blueberry"
 if porridge == "blueberry":
     print("Eating...")
 ```
-
----
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
 
 ---
 
