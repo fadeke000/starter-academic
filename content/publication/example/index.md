@@ -76,7 +76,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+---
 title: "Maximum performance expression is affected by octopamine and antennae removal in Acheta domesticus"
 
 # Authors
