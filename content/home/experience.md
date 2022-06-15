@@ -43,7 +43,7 @@ experience:
     location: Louisiana
     date_start: '2017-01-08'
     date_end: '2021-12-31'
-    description: Taught sections of 30 suudents Biology 1 lab and introduced various laboratory techniques to freshmen.
+    description: Taught sections of 30 students Biology 1 lab and introduced various laboratory techniques to freshmen.
   - title: STEM Learning Community Resident Assistant 
     company: University of New Orleans (Podcast Link)
     company_url: 'https://adeolaf.podbean.com/e/scichat-episode-3/'
