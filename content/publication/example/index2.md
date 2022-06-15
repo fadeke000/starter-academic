@@ -1,13 +1,12 @@
 ---
-title: "Maximum performance expression is affected by octopamine and antennae removal in Acheta domesticus"
+title: "Octopamine affects courtship call structure in male Acheta domesticus crickets"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Andrew Bubak
-- John Swallow
 - admin
+- James Keen
 - Simon Lailvaux
 
 # Author notes (optional)
@@ -28,13 +27,13 @@ publishDate: "2022-04-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Behavioral Ecology*
-publication_short: In *Behav. Ecol.*
+publication: In *Hormones and Behavior*
+publication_short: In *Horm Behav*
 
-abstract: Animals in nature seldom use their maximum performance abilities, likely in part due to context-dependent differences in performance motivation. Despite interest in the factors affecting performance expression, the physiological mechanisms underlying variation in performance motivation are poorly understood. We manipulated levels of the biogenic amine octopamine (OA) to test the hypothesis that OA drives motivation to express maximum bite force in male house crickets. We also tested the effect of antenna removal on bite force given prior evidence of potential links among antennaectomy, aggression, and OA. We found that administration of an OA antagonist, epinastine, significantly decreases realized maximum bite force, as does antenna removal. In addition, the performance decrement induced by antennaectomy is abolished by administration of excess OA, and that rescue effect is itself nullified by the simultaneous administration of epinastine. These data show that OA is an important mediator of performance in insects, and thus of performance motivation, and potentially a promising candidate for the short term manipulation of performance.
+abstract: Secondary sexual displays vary considerably in both type and structure both within and across animal species. Although such variation is of keen interest to evolutionary biologists, the functional factors driving variation in male displays are poorly understood. In crickets, acoustic calls are produced by muscular contractions via stridulation of file and scraper wing components. We tested the effect of varying octopamine, an important biogenic amine neurohormone in invertebrates, on call production in male Acheta domesticus house crickets by blocking the octopamine receptors that influence skeletal muscle function with epinastine, a synthetic octopamine antagonist. We then measured male courtship calls and analyzed the call structure to quantify the differences in call structure based on the changes in carrier frequency, and whether chirps or ticks are a more prevalently expressed frequency in treated vs untreated males. Males treated with epinastine exhibited clear differences in call structure compared to untreated controls, such that epinastine-treated males were more likely to produce simpler calls and to exhibit their carrier frequencies as ticks rather than chirps. Thus, we were able to directly modify male courtship calling performance during mating interactions by altering the neuropharmacological milieu, demonstrating the potential role of biogenic amines in contributing to the diversity of call types in nature.
 
 # Summary. An optional shortened abstract.
-summary: Bite performance is significantly diminished by both an octopamine receptor antagonist and by antenna removal.
+summary: Treating crickets with an octopamine antagonist affects whether crickets are able to produce courtship calls during mating trials.
 
 tags: [acheta domesticus]
 
@@ -46,7 +45,7 @@ featured: true
 # - name: 
  #  url: 
 
-url_pdf: 'https://fadeke-adeola.netlify.app/publication/example/Bubaketal.2022.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,3 +75,15 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+---
+
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
