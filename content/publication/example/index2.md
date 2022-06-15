@@ -1,12 +1,13 @@
 ---
-title: "Octopamine affects courtship call structure in male Acheta domesticus crickets"
+title: "Maximum performance expression is affected by octopamine and antennae removal in Acheta domesticus"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- James Keen
+- Andrew Bubak 
+- John Swallow
 - Simon Lailvaux
 
 # Author notes (optional)
@@ -27,13 +28,13 @@ publishDate: "2022-04-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hormones and Behavior*
-publication_short: In *Horm Behav*
+publication: In *Behavioral Ecology*
+publication_short: In *Behav Ecol*
 
-abstract: Secondary sexual displays vary considerably in both type and structure both within and across animal species. Although such variation is of keen interest to evolutionary biologists, the functional factors driving variation in male displays are poorly understood. In crickets, acoustic calls are produced by muscular contractions via stridulation of file and scraper wing components. We tested the effect of varying octopamine, an important biogenic amine neurohormone in invertebrates, on call production in male Acheta domesticus house crickets by blocking the octopamine receptors that influence skeletal muscle function with epinastine, a synthetic octopamine antagonist. We then measured male courtship calls and analyzed the call structure to quantify the differences in call structure based on the changes in carrier frequency, and whether chirps or ticks are a more prevalently expressed frequency in treated vs untreated males. Males treated with epinastine exhibited clear differences in call structure compared to untreated controls, such that epinastine-treated males were more likely to produce simpler calls and to exhibit their carrier frequencies as ticks rather than chirps. Thus, we were able to directly modify male courtship calling performance during mating interactions by altering the neuropharmacological milieu, demonstrating the potential role of biogenic amines in contributing to the diversity of call types in nature.
+abstract:  Animals in nature seldom use their maximum performance abilities, likely in part due to context-dependent differences in per- formance motivation. Despite interest in the factors affecting performance expression, the physiological mechanisms underlying variation in performance motivation are poorly understood. We manipulated levels of the biogenic amine octopamine (OA) to test the hypothesis that OA drives motivation to express maximum bite force in male house crickets. We also tested the effect of an- tenna removal on bite force given prior evidence of potential links among antennaectomy, aggression, and OA. We found that administration of an OA antagonist, epinastine, significantly decreases realized maximum bite force, as does antenna removal. In addition, the performance decrement induced by antennaectomy is abolished by administration of excess OA, and that rescue effect is itself nullified by the simultaneous administration of epinastine. These data show that OA is an important mediator of per- formance in insects, and thus of performance motivation, and potentially a promising candidate for the short term manipulation of performance.
 
 # Summary. An optional shortened abstract.
-summary: Treating crickets with an octopamine antagonist affects whether crickets are able to produce courtship calls during mating trials.
+summary: Bite performance is significantly diminished by both an octopamine receptor antagonist and by antenna removal,.
 
 tags: [acheta domesticus]
 
