@@ -1,9 +1,9 @@
 ---
-title: Coming Soon
-subtitle: Subtitle.
+title: Journal Cover Art 
+subtitle: Cover Art for Hormones and Behavior.
 
 # Summary for listings and search engines
-summary: Summary.
+summary: Cover art consisting of data from cricket chirps using Raven Lite. The 2D cricket image was created using procreate. 
 
 # Link this post with a project
 projects: []
@@ -18,12 +18,12 @@ lastmod: "2020-12-13T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [Data: Fadeke Adeola](https://www.sciencedirect.com/journal/hormones-and-behavior)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -46,9 +46,6 @@ categories:
 
 ## Themes
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
