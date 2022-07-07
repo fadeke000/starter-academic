@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: The R book Python
+- description: The R book, Python
   icon: r-project
   icon_pack: fab
   name: R programming/stats
-- description: The R book, DataCamo
+- description: The R book, DataCamp
   icon: chart-line
   icon_pack: fas
   name: Statistics
