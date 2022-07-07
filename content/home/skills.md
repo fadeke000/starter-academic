@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 85%
+- description: The R book Python
   icon: r-project
   icon_pack: fab
   name: R programming/stats
-- description: 85%
+- description: The R book, DataCamo
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 85%
+- description: Audio Manipulation using Raven Lite and Audacity
   icon: file-audio
   icon_pack: fas
   name: Audacity 
