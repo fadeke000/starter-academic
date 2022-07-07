@@ -19,7 +19,7 @@ feature:
 - description: The R book, Python
   icon: r-project
   icon_pack: fab
-  name: R programming/stats
+  name: R programming
 - description: The R book, DataCamp
   icon: chart-line
   icon_pack: fas
