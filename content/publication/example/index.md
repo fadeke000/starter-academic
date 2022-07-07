@@ -86,4 +86,3 @@ Click the *Cite* button above to import publication metadata into their referenc
 Click the *Slides* button to check out more details.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
