@@ -6,7 +6,7 @@ title: Fadeke Adeola
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Integrative Biology 
+role: PhD of Integrative Biology 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Integrative Biology 
     institution: University of New Orleans
-    year: Currently Attending
+    year: 2023
   - course: BSc in Biological Sciences
     institution: University of New Orleans
     year: 2017
@@ -65,7 +65,22 @@ email: ""
 highlight_name: false
 ---
 
-Fadeke Adeola is a Ph.D candidate of Integrative Biology at the University of New Orleans. Her research interests include biostatistics, and evolutionary mechanisms and signal processing. She is a part of the Lailvaux Lab Group, which currently works with Acheta domesticus (the european house cricket) and Anolis carolinensis (the green Anole). She uses various methods of instrumentation to test muscular contractions and the effects of the octopamine neurotransmitter pathway on sexual conflict within Acheta domesticus crickets. 
+With a Doctorate of Philosophy in Integrative Biology, Fadeke Adeola has made remarkable contributions to the fields of entomology, biostatistics, bioacoustics, and neurobiology, with a focus on the captivating Acheta domesticus crickets.
+
+The allure of understanding the interplay between various biological disciplines drew her to the realm of Integrative Biology, where they embarked on her doctoral studies.
+
+Throughout her doctoral journey, Fadeke Adeola chose the Acheta domesticus cricket as a primary subject of investigation. This choice reflected her astute appreciation for the cricket's significance as a model organism in ecological and physiological studies. Fadeke Adeola’s work delved into the intricate relationships between the cricket's behavior, its neurophysiological processes, and the broader evolutionary processes.
+
+A pivotal aspect of Fadeke’s research centered around biostatistics, showcasing her mastery in quantitative methodologies. her application of advanced statistical techniques was instrumental in deciphering complex behavioral patterns, providing a deeper understanding of how Acheta domesticus crickets interacted within her environment.
+
+One of the most distinctive aspects of her work was the exploration of bioacoustics in crickets. Her research revealed the nuanced melodies and rhythmic patterns encoded in the crickets' chirps, shedding light on communication strategies, mate selection dynamics, and territorial behavior. By skillfully combining field recordings, acoustic analysis, and behavioral observations, Fadeke Adeola enriched our comprehension of the intricate auditory world of crickets.
+
+Another aspect of her research was the investigation into the octopamine neurotransmitter pathway in Acheta domesticus crickets. Her work uncovered the pivotal role of octopamine in regulating various physiological processes, including behavior, locomotion, and hormonal signaling. This significant contribution opened new avenues for understanding the underlying mechanisms that govern insect behavior.
+
+
+She was a part of the Lailvaux Lab Group, which currently works with Acheta domesticus (the european house cricket) and Anolis carolinensis (the green Anole). She uses various methods of instrumentation to test muscular contractions and the effects of the octopamine neurotransmitter pathway on sexual conflict within Acheta domesticus crickets. 
+
+She is currently Studying Crayfish fighting behaviors at The University of Queensland With the Wilson Lab Group
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
